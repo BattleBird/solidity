@@ -1,6 +1,7 @@
 pragma solidity ^0.4.10;
 
 // Copyright 2017 Bittrex
+//xuhang
 
 contract AbstractSweeper {
     function sweep(address token, uint amount) returns (bool);
